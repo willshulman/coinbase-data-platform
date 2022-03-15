@@ -1,5 +1,5 @@
 {
-  'name': 'PetflixDataPlatform'
+  'name': 'PetflixDataPlatform',
   
   'components': [
     'clusters',
