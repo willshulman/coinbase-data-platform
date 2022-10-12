@@ -12,7 +12,7 @@
   ],
   
   "streams": [
-    "streams/activity-warehouse"
+    "streams/activity-stream"
   ],
   
   "triggers": [
