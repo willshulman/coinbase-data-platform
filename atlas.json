@@ -1,9 +1,0 @@
-{
-  'name': 'PetflixDataPlatform',
-  
-  'components': [
-    'clusters',
-    'microservices',
-    'triggers'
-  ]
-}
