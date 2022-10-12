@@ -1,6 +1,31 @@
 {
   "name": "CoinbaseDataPlatform",
   
-  "components": [
+  "databases": [
+    "databases/users-database",
+    "databases/trades-database",
+    "databases/warehouse-database",
+  ],
+  
+  "caches": [
+    "caches/user-cache"
+  ],
+  
+  "streams": [
+    "streams/activity-warehouse"
+  ],
+  
+  "triggers": [
+    "triggers/new-user"
+  ],
+  
+  "jobs": [
+    "jobs/generate-monthly-exec-report"
+  ],
+  
+  "microservices": [
+    "micros/user-graphqi-service",
+    "micros/warehouse-internal-api"
   ]
+  
 }
