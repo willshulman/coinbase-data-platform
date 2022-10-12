@@ -5,11 +5,8 @@
     "region": "$REGION",
     "instancetyoe": "$USER_CACHE_INSTANCE_TYPE",
   },
-  
+ 
   "collections": [
-  ],
-  
-  "views": [
   ],
   
   "indexes": [
