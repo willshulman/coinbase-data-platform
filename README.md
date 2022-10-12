@@ -1,6 +1,6 @@
-# atlas-deploy-adp-demo
+# Coinbase data platform
 
 
 ```
-atlas deploy
+atlas deploy .
 ```
