@@ -2,5 +2,5 @@
 
 
 ```
-atlas deploy .
+atlas platform deploy .
 ```
