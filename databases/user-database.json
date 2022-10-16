@@ -2,7 +2,6 @@
   "type": "DedicatedInstance",
 
   "cloudConfig": {
-    "region": "$REGION",
     "instancetyoe": "$USER_DB_INSTANCE_TYPE",
   },
   
