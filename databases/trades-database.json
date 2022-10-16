@@ -1,0 +1,18 @@
+{
+  "type": "ServerlessInstance",
+
+  "cloudConfig": {
+    "region": "$REGION",
+    "instancetyoe": "$USER_DB_INSTANCE_TYPE",
+  },
+  
+  "collections": [
+  ],
+  
+  "views": [
+  ],
+  
+  "indexes": [
+  ]
+   
+}
