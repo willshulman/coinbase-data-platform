@@ -8,10 +8,10 @@
   
   "collections": [
       "user": {
-        indexes: [
+        "indexes": [
           "email": 1,
         ],
-        schema: {
+        "schema": {
           "email": { type: "String" }
         }
       } 
