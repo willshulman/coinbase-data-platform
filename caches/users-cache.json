@@ -2,7 +2,7 @@
   "type": "Cache",
 
   "cloudConfig": {
-    "region": "$REGION",
+    "region": "$CACHE_REGION",
     "instancetyoe": "$USER_CACHE_INSTANCE_TYPE",
   },
  
