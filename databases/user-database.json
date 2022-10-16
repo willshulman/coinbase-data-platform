@@ -1,5 +1,5 @@
 {
-  "type": "DedicatedCluster",
+  "type": "DedicatedInstance",
 
   "cloudConfig": {
     "region": "$REGION",
