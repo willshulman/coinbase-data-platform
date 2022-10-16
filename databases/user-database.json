@@ -7,12 +7,18 @@
   },
   
   "collections": [
+      "user": {
+        indexes: [
+          "email": 1,
+        ],
+        schema: {
+          "email": { type: "String" }
+        }
+      } 
   ],
   
   "views": [
   ],
-  
-  "indexes": [
-  ]
+
    
 }
