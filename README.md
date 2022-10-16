@@ -1,6 +1,6 @@
 # Coinbase data platform
 
-Hello coimbase developer. In this repository you will find the data platform upon which you will write your applications. 
+Hello Coinbase developer. In this repository you will find the data platform upon which you will write your applications. 
 
 The data platform contained in this repository consists of databases, streams, and other data-tier infrastructure you will need to develop software at Coinbase.
 
