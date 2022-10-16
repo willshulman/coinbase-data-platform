@@ -1,5 +1,3 @@
-*Please note this is a fake demo. Syntax is made up, and everything is oversimplified.*
-
 # Coinbase data platform
 
 Hello Coinbase developer. In this repository you will find the data platform upon which you will write your applications. 
@@ -28,4 +26,5 @@ Deploy the data platform to your own development
 % atlas platform deploy .
 ```
 
+*Please note this is a fake demo. Syntax is made up, and everything is oversimplified.*
 
