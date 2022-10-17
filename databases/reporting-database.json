@@ -1,0 +1,18 @@
+
+
+{
+  "type": "FederatedDatabaseInstance",
+
+  "cloudConfig": {
+  },
+  
+  "collections": [
+  ],
+  
+  "views": [
+  ],
+  
+  "indexes": [
+  ]
+   
+}
