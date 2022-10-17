@@ -1,0 +1,18 @@
+
+
+{
+  "type": "DedicatedInstance",
+
+  "cloudConfig": {
+  },
+  
+  "collections": [
+  ],
+  
+  "views": [
+  ],
+  
+  "indexes": [
+  ]
+   
+}
