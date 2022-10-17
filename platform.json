@@ -5,6 +5,7 @@
     "databases/users-database",
     "databases/trades-database",
     "databases/warehouse-database",
+    "databases/reporting-database"
   ],
   
   "caches": [
