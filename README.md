@@ -1,3 +1,5 @@
+_The following is a fake demo of Atlas Deploy -- a way of declaratively defining everyting in Atlas as configuration that can be version controlled and managed by the command line_
+
 # Coinbase data platform
 
 Hello Coinbase developer. In this repository you will find the data platform upon which you will write your applications. 
